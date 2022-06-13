@@ -2,6 +2,9 @@
   "name": "PegaReact",
   "version": "87.4.0",
   "description": "Pega React Starter Kit for DX API v1",
+  "engines": {
+    "node": "14.18.0"
+  },
   "private": true,
   "homepage": "/",
   "license": "MIT",
